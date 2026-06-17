@@ -69,6 +69,6 @@ AlcoList is actively developed, but the application source code is private.
 - [AirMQTT](https://github.com/roqd-one/airmqtt-app)
 - [PostFox](https://github.com/roqd-one/postfox)
 - [NowAgo](https://github.com/roqd-one/nowago)
-- [StoreProof](https://github.com/roqd-one/storeproof)
+- [StoreProof](https://github.com/roqd-one/storeproof-app)
 - [LumiGap](https://github.com/roqd-one/lumigap-poker-ai)
 
