@@ -37,9 +37,8 @@ AlcoList is an alcohol tracking app with a calm and thoughtful workflow. It is d
 
 - Website: https://alcolist.online/
 - App Store: https://apps.apple.com/es/app/alcolist-alcohol-tracker/id6756630744
-- Portfolio page: https://roqd.one/p/alcolist
+- Portfolio page: https://stargap.one/products/alcolist
 - GitHub repo: https://github.com/roqd-one/alcolist
-- Main portfolio: https://roqd.one/
 - GitHub profile: https://github.com/roqd-one
 
 ## Suggested GitHub topics
@@ -70,8 +69,6 @@ AlcoList is actively developed, but the application source code is private.
 - [AirMQTT](https://github.com/roqd-one/airmqtt-app)
 - [PostFox](https://github.com/roqd-one/postfox)
 - [NowAgo](https://github.com/roqd-one/nowago)
-- [OrbiDeck](https://github.com/roqd-one/orbideck)
+- [StoreProof](https://github.com/roqd-one/storeproof)
 - [LumiGap](https://github.com/roqd-one/lumigap-poker-ai)
 
----
-Part of the public product portfolio at https://roqd.one/
