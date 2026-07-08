@@ -35,8 +35,12 @@ AlcoList is an alcohol tracking app with a calm and thoughtful workflow. It is d
 
 ## Links
 
-- Website: https://alcolist.online/
+- Website: https://alcolist.com/igp
 - App Store: https://apps.apple.com/es/app/alcolist-alcohol-tracker/id6756630744
+- Google Play: https://play.google.com/store/apps/details?id=com.robpenski.alcolist
+- Facebook: https://www.facebook.com/alcolistalcoholtracker/
+- LinkedIn: https://www.linkedin.com/company/alcolist/about/?viewAsMember=true
+- X: https://x.com/alcolist_com
 - Portfolio page: https://stargap.one/products/alcolist
 - GitHub repo: https://github.com/roqd-one/alcolist
 - GitHub profile: https://github.com/roqd-one
@@ -71,4 +75,3 @@ AlcoList is actively developed, but the application source code is private.
 - [NowAgo](https://github.com/roqd-one/nowago)
 - [StoreProof](https://github.com/roqd-one/storeproof-app)
 - [LumiGap](https://github.com/roqd-one/lumigap-poker-ai)
-
